@@ -10,5 +10,15 @@ public class introduction {
 		System.out.println("HIIIII");
 		System.out.println("ASWINIHIIII");
 	}
+	@Test
+	public void testng()
+	{
+		System.out.println("test");
+		System.out.println("java");
+		
+		
+		
+		
+	}
 
 }
