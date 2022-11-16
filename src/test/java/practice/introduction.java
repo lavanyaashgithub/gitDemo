@@ -17,9 +17,18 @@ public class introduction {
 		System.out.println("java");
 		System.out.println("java");
 		
-		
-		
-		
 	}
+	@Test
+	public void aswini()
+	{
+		System.out.println("test");
+		System.out.println("java");
+		System.out.println("java");
+	}
+	
+		
+		
+		
+	
 
 }
